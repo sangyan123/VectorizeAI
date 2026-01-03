@@ -1,0 +1,5 @@
+{
+  "name": "VectorizeAI",
+  "description": "Transform your raster images (JPG, PNG) into scalable SVG vector art using Gemini 3 Vision capabilities.",
+  "requestFramePermissions": []
+}
